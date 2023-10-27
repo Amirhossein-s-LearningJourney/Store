@@ -15,6 +15,7 @@ djangorestframework-simplejwt = "*"
 pillow = "*"
 django-cors-headers = "*"
 flake8 = "*"
+django-templated-mail = "*"
 
 [dev-packages]
 autopep8 = "*"

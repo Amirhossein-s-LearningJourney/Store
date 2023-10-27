@@ -3,7 +3,7 @@
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "git.ignoreLimitWarning": true,
-  "flake8.args": [
-    "--max-line-length=120"
-],
+//   "flake8.args": [
+//     "--max-line-length=120"
+// ],
 }
